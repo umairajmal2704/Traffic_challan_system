@@ -1,0 +1,9 @@
+torch
+torchvision
+ultralytics
+lap
+opencv-python
+streamlit
+numpy
+Pillow
+facenet-pytorch
